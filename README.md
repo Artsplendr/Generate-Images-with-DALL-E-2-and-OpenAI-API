@@ -19,19 +19,19 @@ Creating variations of the generated image above:
 
 <p align="left">
 <img
-  src="image_0.jpg"
+  src="image0.jpg"
   title="Image Variation 1"
   style="display: inline-block; margin: 0 auto; max-width: 128px">
 </p>
 <p align="left">
 <img
-  src="image_1.jpg"
+  src="image1.jpg"
   title="Image Variation 2"
   style="display: inline-block; margin: 0 auto; max-width: 128px">
 </p>
 <p align="left">
 <img
-  src="image_2.jpg"
+  src="image2.jpg"
   title="Image Variation 3"
   style="display: inline-block; margin: 0 auto; max-width: 128px">
 </p>
