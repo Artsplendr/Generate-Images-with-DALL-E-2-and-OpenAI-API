@@ -15,9 +15,9 @@ With the prompt "Pixar style 3D render of a baby tucan, high resolution", the fo
   title="Generated Image"
   style="display: inline-block; margin: 0 auto; width: 256px; height:256px;">
 </p>
-&nbsp
+&nbsp;
 Created variations of the generated image:
-&nbsp
+&nbsp;
 <p align="left">
 <img
   src="image0.png"
