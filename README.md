@@ -9,12 +9,31 @@ Objective of this project is to test DALL·E 2 in generating images, based on te
 ## Image Generated:
 With the prompt "Pixar style 3D render of a baby tucan, high resolution", the following image was generated:
 <p align="left">
-  <img width="631" height="188" src="image.jpg">
+<img
+  src="image.jpg"
+  title="Generated Image"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 
 Creating variations of the generated image above:
+
 <p align="left">
-  <img width="631" height="188" src="image_0.jpg"><img width="631" height="188" src="image_1.jpg"><img width="631" height="188" src="image_2.jpg">
+<img
+  src="image_0.jpg"
+  title="Generated Image"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+</p>
+<p align="left">
+<img
+  src="image_1.jpg"
+  title="Generated Image"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+</p>
+<p align="left">
+<img
+  src="image_2.jpg"
+  title="Generated Image"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 </p>
 
 ## References:
