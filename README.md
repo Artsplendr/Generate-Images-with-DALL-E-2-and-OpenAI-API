@@ -29,7 +29,7 @@ Creating variations of the generated image above:
 <img
   src="image_2.jpg"
   title="Generated Image"
-  style="display: inline-block; margin: 0 auto; max-width: 2560px">
+  style="display: inline-block; margin: 0 auto; max-width: 256px">
 </p>
 
 ## References:
