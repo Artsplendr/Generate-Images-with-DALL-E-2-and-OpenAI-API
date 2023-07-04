@@ -2,9 +2,9 @@
 
 ## Project's Objective
 
-OpenAI describes DALL·E 2 as "an AI system that can create realistic images and art from a description in natural language."  It is an oustanding tool, which allows creating images on the fly.
+OpenAI describes DALL·E 2 as "an AI system that can create realistic images and art from a description in natural language."  It is an amazing tool, which allows creating images on the fly.
 
-Objective of this project is to test DALL·E 2 in generating images, based on text prompts and also to create variations of the generated image.
+Objective of this project is to test DALL·E 2 in generating images, based on a text prompt and also to create variations of the generated image.
 
 ## Example of Generated Image:
 
@@ -18,6 +18,7 @@ With the prompt "Pixar style 3D render of a baby tucan, high resolution", the fo
 
 <p align="left">
 Created variations of the generated image:
+&nbsp;
 </p>
 
 <p align="left">
