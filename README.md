@@ -17,7 +17,7 @@ With the prompt "Pixar style 3D render of a baby tucan, high resolution", the fo
 </p>
 <br/>
 Created variations of the generated image:
-<br/>
+
 <p align="left">
 <img
   src="image0.png"
