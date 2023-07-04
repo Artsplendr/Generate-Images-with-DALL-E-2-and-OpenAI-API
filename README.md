@@ -22,14 +22,10 @@ Creating variations of the generated image above:
   src="image0.png"
   title="Image Variation 1"
   style="display: inline-block; margin: 0 auto; width: 256px; height:256px;">
-</p>
-<p align="left">
 <img
   src="image1.png"
   title="Image Variation 2"
   style="display: inline-block; margin: 0 auto; width: 256px; height:256px>
-</p>
-<p align="left">
 <img
   src="image2.png"
   title="Image Variation 3"
