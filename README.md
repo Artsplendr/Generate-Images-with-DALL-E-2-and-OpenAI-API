@@ -12,7 +12,7 @@ With the prompt "Pixar style 3D render of a baby tucan, high resolution", the fo
 <img
   src="image.jpg"
   title="Generated Image"
-  style="display: inline-block; margin: 0 auto; width: 128px; height:128px">
+  style="display: inline-block; margin: 0 auto; width: 256px; height:256px;">
 </p>
 
 Creating variations of the generated image above:
@@ -21,19 +21,19 @@ Creating variations of the generated image above:
 <img
   src="image0.jpg"
   title="Image Variation 1"
-  style="display: inline-block; margin: 0 auto; width: 128px; height:128px">
+  style="display: inline-block; margin: 0 auto; width: 256px; height:256px;">
 </p>
 <p align="left">
 <img
   src="image1.jpg"
   title="Image Variation 2"
-  style="display: inline-block; margin: 0 auto; width: 128px; height:128px>
+  style="display: inline-block; margin: 0 auto; width: 256px; height:256px>
 </p>
 <p align="left">
 <img
   src="image2.jpg"
   title="Image Variation 3"
-  style="display: inline-block; margin: 0 auto; width: 128px; height:128px">
+  style="display: inline-block; margin: 0 auto; width: 256px; height:256px;">
 </p>
 
 ## References:
