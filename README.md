@@ -25,7 +25,7 @@ Creating variations of the generated image above:
 <img
   src="image1.png"
   title="Image Variation 2"
-  style="display: inline-block; margin: 0 auto; width: 256px; height:256px;>
+  style="display: inline-block; margin: 0 auto; width: 256px; height:256px;">
 <img
   src="image2.png
   title="Image Variation 3"
