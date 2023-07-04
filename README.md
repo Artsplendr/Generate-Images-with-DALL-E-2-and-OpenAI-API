@@ -7,6 +7,7 @@ OpenAI describes DALL·E 2 as "an AI system that can create realistic images and
 Objective of this project is to test DALL·E 2 in generating images, based on text prompts and also to create variations of the generated image.
 
 ## Example of Generated Image:
+<br/>
 With the prompt "Pixar style 3D render of a baby tucan, high resolution", the following image was generated:
 <p align="left">
 <img
@@ -14,9 +15,9 @@ With the prompt "Pixar style 3D render of a baby tucan, high resolution", the fo
   title="Generated Image"
   style="display: inline-block; margin: 0 auto; width: 256px; height:256px;">
 </p>
-
-Creating variations of the generated image above:
-
+<br/>
+Created variations of the generated image above:
+<br/>
 <p align="left">
 <img
   src="image0.png"
